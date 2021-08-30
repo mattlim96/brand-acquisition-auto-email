@@ -1,4 +1,4 @@
-# Automated Email Script for Brand Acquisition Initiative
+# Automated Email on Apps Script
 
 ## About The Project
 
